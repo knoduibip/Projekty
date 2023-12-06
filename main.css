@@ -1,0 +1,19 @@
+.btnView{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(247, 247, 247);
+    width: 75%;
+    height: fit-content;
+    margin-left: 15%;
+    border: 12px solid rgb(209, 209, 209);
+    border-radius: 10px;
+}
+button {
+    margin: 5px;
+    padding: 10px;
+    border: solid 2px #979797;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
